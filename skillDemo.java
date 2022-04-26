@@ -1,5 +1,5 @@
-public class SkillDemo{
+public class skillDemo{
     public static int minus(int x, int y){
-        x - y;
+        return x - y;
     }
 }
